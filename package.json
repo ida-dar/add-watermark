@@ -1,0 +1,12 @@
+{
+  "name": "add-watermark",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:ida-dar/add-watermark.git",
+  "author": "Ida Darmochwał <ida.mdart@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
